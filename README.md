@@ -55,28 +55,13 @@ This repository contains all work for the four ICE (In-Class Exercise) Tasks, or
 ## Repository Structure
 
 All tasks are contained and tracked within this single repository.
-- Each ICE Task is clearly identified and separated by folder, branch, or README sections (as appropriate).
-- Refer to individual task folders or markdown sections for specific instructions and code.
-
 ---
 
 ## How to Use
 
 1. **Clone the repository:**  
-   `git clone https://github.com/ST10356476/<repo-name>.git`
-
-2. **Navigate to the relevant ICE Task folder or section** for instructions, implementations, and documentation.
-
-3. **Follow the steps outlined in each section** to reproduce or review the work for each task.
+   `git clone https://github.com/ST10356476/INSY7314_ICE_TASK-1-4.git`
 
 ---
 
-## Additional Notes
-
-- If you are looking for a specific step from the Lab Guide or Pulsevote README, refer to the section headers above.
-- For any issues, suggestions, or improvements, please open an Issue or Pull Request.
-
----
-
-**Author:** [ST10356476](https://github.com/ST10356476)  
-**Last Updated:** 2025-09-26
+**Author:** [ST10356476](https://github.com/ST10356476)
